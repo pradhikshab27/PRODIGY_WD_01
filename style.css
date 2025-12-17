@@ -60,7 +60,7 @@
 .hero {
   height: 100vh;
   background: 
-    url("images/laptop.png//523-5235647_responsive-website-design-showing-computer-laptop-beautiful-landing.png") no-repeat right center,
+    url("images/523-5235647_responsive-website-design-showing-computer-laptop-beautiful-landing.png") no-repeat right center,
     linear-gradient(135deg, #f7f6f8, #d898e7,#58afc0);
   background-position: 90% center,center;
   background-size: 600px auto,cover;
@@ -150,3 +150,4 @@
     display: none;
   }
 }
+
